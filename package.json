@@ -1,6 +1,6 @@
 {
   "name": "common-web-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "some utils for web-storage",
   "main": "./dist/index.ts",
   "scripts": {},
@@ -12,6 +12,7 @@
   "devDependencies": {
   },
   "dependencies": {
-    "common-type-verify": "^1.0.0"
+    "common-type-verify": "^1.0.0",
+    "typescript": "^4.0.3"
   }
 }
