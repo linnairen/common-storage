@@ -9,8 +9,7 @@
   ],
   "author": "linnairen",
   "license": "ISC",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "common-type-verify": "^1.0.0",
     "typescript": "^4.0.3"
