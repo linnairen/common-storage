@@ -6,9 +6,9 @@
 
 ```
   
-  npm install common-type-verify
+  npm install common-web-storage
 
   // if you use yarn
-  yarn add common-type-verify
+  yarn add common-web-storage
 
 ```

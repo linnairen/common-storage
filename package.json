@@ -1,6 +1,6 @@
 {
   "name": "common-web-storage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "some utils for web-storage",
   "main": "./dist/index.ts",
   "scripts": {},
