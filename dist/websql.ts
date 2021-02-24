@@ -1,5 +1,5 @@
 import { TypeVerify } from 'common-type-verify'
-import './websql.d'
+
 /**
  * 通用本地数据库
  */
