@@ -1,3 +1,4 @@
+/// <reference path="../types/websql.d.ts" />
 import { TypeVerify } from 'common-type-verify'
 
 /**
